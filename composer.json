@@ -21,7 +21,7 @@
     },
     "autoload-dev": {
         "psr-4": {
-            "Phoenix\\Privacy\\Tests\\": "tests/"
+            "PHPNomad\\Privacy\\Tests\\": "tests/"
         }
     },
     "authors": [
