@@ -1,6 +1,7 @@
 {
     "name": "phpnomad/privacy",
     "description": "",
+    "version": "1.0.0",
     "type": "library",
     "homepage": "https://github.com/phpnomad",
     "readme": "README.md",
